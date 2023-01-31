@@ -2,7 +2,7 @@
 
 - 🌱 Técnica em Administração;
 - 🌱 Graduando em Desenvolvimento de Softwares Multiplataformas;
-- ⚡ Estudando para atuar como Front-end 🙂
+- ⚡ Estudando para atuar como Back-end 🙂
 
 <div align="center">
   <a href="https://github.com/mandis-ncs">
