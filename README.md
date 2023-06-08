@@ -1,7 +1,7 @@
 # Oiee💖 sou a Amanda :)
 
 - 🌱 Técnica em Administração;
-- 🌱 Graduando em Desenvolvimento de Softwares Multiplataformas;
+- 🌱 Graduando em Desenvolvimento de Softwares Multiplataforma;
 - ⚡ Estudando para atuar como Back-end 🙂
 
 <div align="center">
