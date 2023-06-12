@@ -1,8 +1,8 @@
 # Oiee💖 sou a Amanda :)
 
-- 🌱 Técnica em Administração;
-- 🌱 Graduando em Desenvolvimento de Softwares Multiplataforma;
+- 🌱 Graduando em Desenvolvimento de Software Multiplataforma na Fatec Registro;
 - ⚡ Estudando para atuar como Back-end 🙂
+- ⚡ Bolsista na UOL Compass no Programa de Bolsas Back-End Journey (Spring Boot) & AWS
 
 <div align="center">
   <a href="https://github.com/mandis-ncs">
