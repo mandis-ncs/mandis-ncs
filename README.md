@@ -37,7 +37,7 @@
 ##
 
 
-![Me contate](https://img.shields.io/badge/-Me%20Contate-000000?style=for-the-badge&labelColor=000000)&nbsp;
+![Me contate](https://img.shields.io/badge/-Me%20Contate%20:-000000?style=for-the-badge&labelColor=000000)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/amanda-n-castro/)
 [![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:amnd.castro@gmail.com)
 
