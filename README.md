@@ -39,7 +39,7 @@
 
 ![Me contate](https://img.shields.io/badge/-Me%20Contrate-000000?style=for-the-badge&labelColor=000000)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/amanda-n-castro/)
-[![Gmail](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/amanda-n-castro/)
+[![Gmail](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](mailto:amnd.castro@gmail.com)
 
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=120&section=footer"/>
