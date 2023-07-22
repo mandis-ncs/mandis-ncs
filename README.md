@@ -16,14 +16,15 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37)
 
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=000000)&nbsp;
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&labelColor=000000)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&labelColor=000000)&nbsp;
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=000000)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&labelColor=000000)&nbsp;
 
 
  ### Others Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
+![Boostrap](https://img.shields.io/badge/-boostrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000)
@@ -36,10 +37,12 @@
   ##
 
 <div style="text-align: center;">
+   <p align="center"> Me contate </p>
    <p align="center">
      <a href="https://www.linkedin.com/in/amanda-n-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="mailto:amnd.castro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </p>
 </div>
+
 
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=120&section=footer"/>
