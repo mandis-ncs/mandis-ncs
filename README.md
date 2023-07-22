@@ -7,34 +7,39 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandis-ncs&layout=compact&hide_border=true&title_color=5c1bf5&text_color=02c931&bg_color=0d1117" />
 </div>
 
- <h3> Main Languages </h3> 
-<div style="display: inline_block"><br>
-    <img align="center" alt="Mandis-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Mandis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
+### Main Languages:
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=ffffff&labelColor=6DB33F)&nbsp;
+![Java](https://img.shields.io/badge/-Java-5c1bf5?style=for-the-badge&logo=java&logoColor=ffffff&labelColor=5c1bf5)
 
- <h3> Others Languages </h3> 
- <div style="display: inline_block"><br>
-    <img align="center" alt="Mandis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Mandis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Mandis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" alt="Mandis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Mandis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="Mandis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Mandis-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
-    <img align="center" alt="Mandis-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-    <img align="center" alt="Mandis-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Mandis-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-    <img align="center" alt="Mandis-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-   
- </div> 
-  
+### Tools:
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-5c1bf5?style=for-the-badge&logo=intellij-idea&labelColor=5c1bf5)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37)
+
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=000000)&nbsp;
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&labelColor=000000)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&labelColor=000000)&nbsp;
+
+
+ ### Others Languages
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000)
+
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
+
+
   ##
 
- <div>
-   <a href="https://www.linkedin.com/in/amanda-n-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     <a href="mailto:amnd.castro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-   
- </div>
+<div style="text-align: center;">
+   <p align="center">
+     <a href="https://www.linkedin.com/in/amanda-n-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="mailto:amnd.castro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </p>
+</div>
+
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=120&section=footer"/>
