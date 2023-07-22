@@ -34,15 +34,12 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
 
 
-  ##
+##
 
-<div style="text-align: center;">
-   <p align="center"> Me contate </p>
-   <p align="center">
-     <a href="https://www.linkedin.com/in/amanda-n-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="mailto:amnd.castro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </p>
-</div>
 
+![Me contate](https://img.shields.io/badge/-Me%20Contrate-000000?style=for-the-badge&labelColor=000000)&nbsp;
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)
+![Gmail](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)
 
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=120&section=footer"/>
