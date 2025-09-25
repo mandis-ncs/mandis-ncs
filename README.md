@@ -8,18 +8,21 @@
 </div>
 
 ### Main Languages:
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000&labelColor=61DAFB)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff&labelColor=339933)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=3178C6)&nbsp;
+![Java](https://img.shields.io/badge/-Java-5c1bf5?style=for-the-badge&logo=java&logoColor=ffffff&labelColor=5c1bf5)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=ffffff&labelColor=6DB33F)&nbsp;
-![Java](https://img.shields.io/badge/-Java-5c1bf5?style=for-the-badge&logo=java&logoColor=ffffff&labelColor=5c1bf5)
 
 ### Tools:
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-5c1bf5?style=for-the-badge&logo=intellij-idea&labelColor=5c1bf5)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-5c1bf5?style=for-the-badge&logo=intellij-idea&labelColor=5c1bf5)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&labelColor=007ACC)&nbsp;
 
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&labelColor=000000)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=000000)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&labelColor=000000)&nbsp;
-
+![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=jira&logoColor=white&labelColor=000000)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-000000?style=for-the-badge&logo=bitbucket&logoColor=white&labelColor=000000)
 
  ### Other Knowledge:
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
@@ -28,11 +31,15 @@
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
 
+![JUnit](https://img.shields.io/badge/-JUnit-000000?style=for-the-badge&logo=junit5&logoColor=white&labelColor=000000)
+![Jest](https://img.shields.io/badge/-Jest-000000?style=for-the-badge&logo=jest&logoColor=white&labelColor=000000)
 
 ##
 
