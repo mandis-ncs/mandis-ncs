@@ -3,10 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02c931&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Amanda+Castro;I+am+a+Back+End+Dev;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### Main Languages:
+![Next.js](https://img.shields.io/badge/Next.js-5c1bf5?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000&labelColor=61DAFB)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff&labelColor=339933)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=3178C6)&nbsp;
-![Java](https://img.shields.io/badge/-Java-5c1bf5?style=for-the-badge&logo=java&logoColor=ffffff&labelColor=5c1bf5)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff&labelColor=339933)&nbsp;
+![Java](https://img.shields.io/badge/-Java-FF6C37?style=for-the-badge&logo=java&logoColor=ffffff&labelColor=5c1bf5)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=ffffff&labelColor=6DB33F)&nbsp;
 
 ### Tools:
